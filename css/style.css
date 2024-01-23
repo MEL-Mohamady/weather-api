@@ -1,0 +1,16 @@
+body{
+    background-image: url(../imgs/pexels-frans-van-heerden-624015.jpg);
+background-position: center;
+
+}
+
+.row .box-today{
+background-color: rgba(0,0, 0,0.6);
+}
+.box-tomorrow{
+    background-color: rgba(0,0, 0,0.4);
+}
+.box-after{
+    background-color: rgba(0,0,0 , 0.2) 
+
+}
